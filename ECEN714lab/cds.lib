@@ -1,0 +1,12 @@
+DEFINE analogLib $CDS/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE sbaLib $CDS/tools/dfII/etc/cdslib/artist/sbaLib
+DEFINE basic $CDS/tools/dfII/etc/cdslib/basic
+DEFINE sample $CDS/tools/dfII/samples/cdslib/sample
+DEFINE US_8ths $CDS/tools/dfII/etc/cdslib/sheets/US_8ths
+DEFINE cmhv7sf /disk/amsc/IBM_PDK/cmhv7sf/rel/cdslib/cmhv7sf
+DEFINE esd7hv /disk/amsc/IBM_PDK/cmhv7sf/rel/cdslib/esd7hv
+#Removed by ddDeleteObj: DEFINE Lab1 /home/grads/r/rohitsudan/lab-ibm180/Lab1
+#Removed by ddDeleteObj: DEFINE Lab1 /home/grads/r/rohitsudan/lab-ibm180/Lab1
+#Removed by ddDeleteObj: DEFINE LAB#2d1 /home/grads/r/rohitsudan/lab-ibm180/LAB#2d1
+DEFINE Design_LAB1 /home/grads/r/rohitsudan/lab-ibm180/Design_LAB1
+DEFINE Design_Lab2 /home/grads/r/rohitsudan/lab-ibm180/Design_Lab2

@@ -1,0 +1,11 @@
+;;Sample .simrc file for use with implicit (programable node) connections
+;;
+;;The spectre view in the view/stop list will netlist implicit
+;;connections for DIVA LVS.
+lvsSchematicViewList = '("auLvs" "schematic")
+lvsSchematicStopList = '("auLvs")
+cdlSchematicViewList = '("cmos_sch" "auCdl" "schematic")
+cdlSchematicStopList = '("cmos_sch" "auCdl" "schematic")
+;auCdlCDFPinCntrl = nil 
+auCdlScale = "MICRON"
+

@@ -1,0 +1,21 @@
+//
+//  CalibreView Settings:
+//	  Netlist File: /home/grads/r/rohitsudan/LVS/inverter.pex.netlist
+//	  Output Library: Design_Lab2
+//	  Schematic Library: Design_Lab2
+//	  Cellmap File: ./calview.cellmap
+//	  Log File: ./calview.log
+//	  Calibre View Name: calibre
+//	  Calibre View Type: maskLayout
+//	  Magnify Devices by: 1.000000
+//	  Magnify Parasitics by: 1.000000
+//	  Create Terminals: if matching terminal exists on symbol
+//	  Reset Properties: ("m=1")
+//	  Generate SPECTRE Netlist: off
+//
+ched parametr(s):
+("rf" "psp" "stis" "sa" "sb" "sd" "mswitch" "bentgate")
+The "nfetx" device contains the following un-matched parametr(s):
+("rf" "psp" "mswitch" "bentgate")
+Calibre View generation completed with 1 WARNINGs and 3 ERRORs.
+Please consult the CIW transcript for messages.

@@ -1,0 +1,8 @@
+DEFINE analogLib $CDS/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE sbaLib $CDS/tools/dfII/etc/cdslib/artist/sbaLib
+DEFINE basic $CDS/tools/dfII/etc/cdslib/basic
+DEFINE sample $CDS/tools/dfII/samples/cdslib/sample
+DEFINE US_8ths $CDS/tools/dfII/etc/cdslib/sheets/US_8ths
+DEFINE cmhv7sf /disk/amsc/IBM_PDK/cmhv7sf/rel/cdslib/cmhv7sf
+DEFINE esd7hv /disk/amsc/IBM_PDK/cmhv7sf/rel/cdslib/esd7hv
+DEFINE MOSchar /home/grads/r/rohitsudan/lab-ibm180/Design_LAB1/MOSchar
